@@ -153,7 +153,7 @@ header {
   align-items: center;
   height: var(--header-h);
   padding: 0 3rem;
-  position: sticky;
+  position: absolut;
   top: 0;
   z-index: 200;
   transition:
